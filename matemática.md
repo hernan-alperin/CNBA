@@ -39,7 +39,7 @@ Si llamamos ***c*** a la edad que tiene Flavia, ¿cuál o cuáles de las siguien
 
 La figura gris está formada por un rectámgulo al que se le quitaron tres triángulos de 14 cm$^2$ de área cada uno.
 
-![rectángulo con agujeros triangulares](https://user-images.githubusercontent.com/3052651/173350296-731141a4-4e26-4e7e-b384-9057568f9e98.png)
+![rectángulo con agujeros triangulares](https://user-images.githubusercontent.com/3052651/173351391-88a1b51c-7f61-4fc4-a152-096b9bc51794.png)
 
 Elegí la o las expresiones correspondientes que permiten calcular, en centímetrops cuadrados, el área de la figura
 
@@ -49,6 +49,10 @@ Elegí la o las expresiones correspondientes que permiten calcular, en centímet
 4. 7***p*** . 7***p*** + 11 . 11 - 3 . 14
 
 Si ***p*** = 4, calculá, en centímetros cuadrados, el área de la figura
+
+# Problema 6
+
+Representá 75 en la siguiente recta numérica. Marcalo con una X y escribí el número debajo de la marca
 
 
 
