@@ -54,6 +54,16 @@ Si ***p*** = 4, calculá, en centímetros cuadrados, el área de la figura
 
 Representá 75 en la siguiente recta numérica. Marcalo con una X y escribí el número debajo de la marca
 
+![recta numérica](https://user-images.githubusercontent.com/3052651/173398706-00a86daa-7e27-4c63-bedf-24149fb576c7.png)
+
+#Problema 7
+
+Considerá la siguiente figura
+
+![figura unidad](https://user-images.githubusercontent.com/3052651/173398854-87a87128-14c7-4fe4-a63d-4b6acacf539e.png)
+
+1. En cada caso, escribí la parte de la figura que está pintada de gris.
+2. Calculá la suma de las fracciones que escribiste en el item anterior.
 
 
 
