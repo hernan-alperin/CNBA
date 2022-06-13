@@ -56,7 +56,7 @@ Representá 75 en la siguiente recta numérica. Marcalo con una X y escribí el 
 
 ![recta numérica](https://user-images.githubusercontent.com/3052651/173398706-00a86daa-7e27-4c63-bedf-24149fb576c7.png)
 
-#Problema 7
+# Problema 7
 
 Considerá la siguiente figura
 
