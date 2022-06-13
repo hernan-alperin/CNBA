@@ -33,6 +33,6 @@ Si llamamos ***c*** a la edad que tiene Flavia, ¿cuál o cuáles de las siguien
 1. 12 $\leq$ ***c*** < 53
 2. ***c*** > 12 y ***c*** < 53
 3. 12 < ***c*** $\leq$ 53
-4 12 $\leq$ ***c*** < 53
+4. 12 $\leq$ ***c*** < 53
 
 
