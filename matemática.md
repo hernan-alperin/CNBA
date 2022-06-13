@@ -25,7 +25,7 @@ En la siguiente división entera, escribí los únicos números naturales ***m**
 
 ![división entera](https://user-images.githubusercontent.com/3052651/173336901-30ac343b-f7f0-4d31-a530-3c22185d4150.png)
 
-#Problema 4
+# Problema 4
 Fidel tiene 12 años y Hernán, su papá, 53. La cantidad de años de Flavia, la mamá de Fidel, es mayor a la de Fidel pero no supera (es menor o igual) que la del padre de su hijo.
 
 Si llamamos ***c*** a la edad que tiene Flavia, ¿cuál o cuáles de las siguientes expresiones indican la edad de Flavia? Marcá la o las que correspondan
